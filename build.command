@@ -1,4 +1,4 @@
-
+In Build command from Netlify app: guest artikel
 build:
 command: guest artikel
 commandOrigin: ui
